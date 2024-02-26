@@ -42,7 +42,7 @@ a {
     background-position: center;
     width: 100%;
     border-radius: 0 0 60px 60px;
-    background-color: red;
+    background-color: blue;
     z-index: 99;
 }
 
